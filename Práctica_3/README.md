@@ -9,3 +9,6 @@
 - Con la barra espaciadora se salta (animación que dura un tiempo limitado).
 
 NOTA: He modificado el makefile para que ejecutando 'make x' o 'make redo' se ejecute el programa directamente. 
+
+![ejemplo 1][kirby.jpg]
+![ejemplo 2][kirby_mazo.jpg]
