@@ -10,5 +10,5 @@
 
 NOTA: He modificado el makefile para que ejecutando 'make x' o 'make redo' se ejecute el programa directamente. 
 
-![](kirby.jpg)
+![](https://github.com/OMGitsXupi/IG/blob/master/Pr%C3%A1ctica_3/kirby.jpg)
 ![](kirby_mazo.jpg)
